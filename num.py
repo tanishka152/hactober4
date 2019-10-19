@@ -1,1 +1,1 @@
-rashi
+print("Chicklu")
