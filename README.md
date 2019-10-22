@@ -1,3 +1,1 @@
-ritesh
-hacktoberfest challenge
-really fun doing this
+<h1>Hactober</h1>
