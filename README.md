@@ -1,2 +1,1 @@
-ritesh
-linkin park
+linkin
