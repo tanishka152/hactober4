@@ -1,4 +1,1 @@
-
-rashi
 print("python code")
-
