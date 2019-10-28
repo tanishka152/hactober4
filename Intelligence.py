@@ -7,6 +7,7 @@ import math
 import csv
 import arrow
 import itertools
+value=67
 colors=[]
 Interval = 26
 timeOfDay=480
