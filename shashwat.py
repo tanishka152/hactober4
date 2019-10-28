@@ -1,2 +1,1 @@
-print("HELLO INDIA")
-print("APNA BHARAT MAHAN")
+print("Hacktoberfest 2019")
