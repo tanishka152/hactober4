@@ -1,1 +1,1 @@
-print("python code")
+print("Hacktoberfest is Awesome ;)\n")
