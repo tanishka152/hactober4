@@ -1,4 +1,6 @@
 void main()
 {
-cout<<"hello";
+int a[]= {'h','e','l','l','o'}
+for(i=0;i<5;i++)
+  cout<<a[i];
 }
